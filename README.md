@@ -5,7 +5,7 @@ _________________________________
 # **An endless survivors game**
 
 ### A defined time between each round, at each round you can:
-- choose a bonus and continue
+- choose a random bonus (different rarity too : common, rare, epic) and continue
 - save and exit (the current round will not be taken into consideration)
 
 ![image](https://github.com/PheY29/Survivor_games/assets/131706411/a1134779-5d71-47f4-aed1-fc4903f0c2e1)
@@ -20,8 +20,8 @@ _________________________________
 ### enemies (3 differents monster available):
 - managed by a spawner, every 10 seconds the spawner will assign a random time for the monsters to appear, for example at [12, 16, 17, 18, 20] seconds.
 - mushroom -> will follow you no matter what
-- golem -> as long as you don't approach it, it will have random moves
-- goblin -> will stay at a distance from you, making random moves to dodge and throw projectiles at you
+- golem -> as long as you don't approach it, it will have random moves / can appears from round 5
+- goblin -> will stay at a distance from you, making random moves to dodge and throw projectiles at you / can appears from round 10
 
 https://github.com/PheY29/Survivor_games/assets/131706411/0849a39a-96e5-4db7-b59b-8ebf804cd072
 
