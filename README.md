@@ -2,21 +2,23 @@ started after making the menu previously added on github, it took me a little le
 
 _________________________________
 
-**An endless survivors game**
+# **An endless survivors game**
 
-A defined time between each round, at each round you can:
+### A defined time between each round, at each round you can:
 - choose a bonus and continue
 - save and exit (the current round will not be taken into consideration)
+
+![image](https://github.com/PheY29/Survivor_games/assets/131706411/a1134779-5d71-47f4-aed1-fc4903f0c2e1)
  
-Save management:
+### Save management:
 - a continue button will appear if a save is available
 - temporarily saved in a variable
 - if you quit completely, it will be written to a JSON file
 - if a save is available at game launch, retrieve it
 - the save file will be deleted if you die
  
-enemies (3 differents monster available) : 
-managed by a spawner, every 10 seconds the spawner will assign a random time for the monsters to appear, for example at [12, 16, 17, 18, 20] seconds.
+### enemies (3 differents monster available):
+- managed by a spawner, every 10 seconds the spawner will assign a random time for the monsters to appear, for example at [12, 16, 17, 18, 20] seconds.
 - mushroom -> will follow you no matter what
 - golem -> as long as you don't approach it, it will have random moves
 - goblin -> will stay at a distance from you, making random moves to dodge and throw projectiles at you
@@ -24,10 +26,10 @@ managed by a spawner, every 10 seconds the spawner will assign a random time for
 https://github.com/PheY29/Survivor_games/assets/131706411/0849a39a-96e5-4db7-b59b-8ebf804cd072
 
  
-Current item:
+### Current item:
 - heal collectable at 75% drop on monsters (no sprite for the moment)
     
-Others:
+### Others:
 - most collisions are handled by sprite masks
 
 ![mask](https://github.com/PheY29/Survivor_games/assets/131706411/89198bd1-1032-44fa-8418-47b8b87c990e)
