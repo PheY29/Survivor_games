@@ -1,9 +1,8 @@
 started after making the menu previously added on github, it took me a little less than 1 month to finish the whole game so i finished at the end of may (without sprite, just the map was made) then i wanted to create images myself (i'm very bad at drawing so i took my time to like it a minimum) and then i made the code to integrate and animate these images, where by the way i wanted to add a save option which took me 1 week. By trying to add things bit by bit, i ended up taking 2 weeks to post the code (some sprites and animations are still missing, but the main thing is there).
 
+_________________________________
 
-Some game explanation :
-
-An endless survivors game:
+**An endless survivors game**
 
 A defined time between each round, at each round you can:
 - choose a bonus and continue
