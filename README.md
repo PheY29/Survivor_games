@@ -15,13 +15,19 @@ Save management:
 - if a save is available at game launch, retrieve it
 - the save file will be deleted if you die
  
-3 different monsters : 
+enemies (3 differents monster available) : 
+managed by a spawner, every 10 seconds the spawner will assign a random time for the monsters to appear, for example at [12, 16, 17, 18, 20] seconds.
 - mushroom -> will follow you no matter what
 - golem -> as long as you don't approach it, it will have random moves
 - goblin -> will stay at a distance from you, making random moves to dodge and throw projectiles at you
+
+https://github.com/PheY29/Survivor_games/assets/131706411/0849a39a-96e5-4db7-b59b-8ebf804cd072
+
  
 Current item:
-- heal collectable at 75% drop on monsters
+- heal collectable at 75% drop on monsters (no sprite for the moment)
     
 Others:
 - most collisions are handled by sprite masks
+
+![mask](https://github.com/PheY29/Survivor_games/assets/131706411/89198bd1-1032-44fa-8418-47b8b87c990e)
