@@ -1,0 +1,16 @@
+{
+    "save_activate": false,
+    "actual_round": "",
+    "level": "",
+    "experience": "",
+    "total_experience": "",
+    "health": "",
+    "attack": "",
+    "defense": "",
+    "bullet_cd": "",
+    "bullet_spd": "",
+    "total_spawned_monster": "",
+    "total_killed_monster": "",
+    "min_nb_of_monsters": "",
+    "max_nb_of_monsters": ""
+}
