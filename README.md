@@ -1,4 +1,6 @@
-started after making the menu previously added on github, it took me a little less than 1 month to finish the whole game so i finished at the end of may (without sprite, just the map was made) then i wanted to create images myself (i'm very bad at drawing so i took my time to like it a minimum) and then i made the code to integrate and animate these images, where by the way i wanted to add a save option which took me 1 week. By trying to add things bit by bit, i ended up taking 2 weeks to post the code (some sprites and animations are still missing, but the main thing is there).
+Started after making the menu previously added on github, it took me a little less than 1 month to finish the whole game so i finished at the end of may (without sprite, just the map was made) then i wanted to create images myself (i'm very bad at drawing so i took my time to like it a minimum) and then i made the code to integrate and animate these images, where by the way i wanted to add a save option which took me 1 week. By trying to add things bit by bit, i ended up taking 2 weeks to post the code (some sprites and animations are still missing, but the main thing is there).
+
+I'm convinced that a lot of things aren't optimized, and i had a lot of bugs to work out during the project. The full screen mode was basically for testing, changing the size to have 2 possible displays, but in the end it didn't work completely and caused fps drops (I didn't try to fix it but wanted to leave it).
 
 _________________________________
 
